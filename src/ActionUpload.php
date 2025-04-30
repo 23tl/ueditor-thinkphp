@@ -11,7 +11,7 @@ namespace Ueditor;
 
 class ActionUpload
 {
-    /**
+     /**
      * 配置信息
      * @var array
      *
